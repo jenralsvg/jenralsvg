@@ -29,8 +29,7 @@ Nama Saya [Mohamad Ilham](https://github.com/jenralsvg), Bersekolah Di SMA NEGER
 
 ![IlhamNet github stats](https://github-readme-stats.vercel.app/api?username=jenralsvg&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <a href="https://github.com/jenralsvg"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilhamnet&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+<a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p>
 
 ## About me
