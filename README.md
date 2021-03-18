@@ -29,9 +29,8 @@ Nama Saya [Mohamad Ilham](https://github.com/jenralsvg), Bersekolah Di SMA NEGER
 
 ![IlhamNet github stats](https://github-readme-stats.vercel.app/api?username=jenralsvg&show_icons=true&theme=tokyonight)
 
- <p align="center">
-  <a href="https://github.com/jenralsvg"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jenralsvg&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
-</p>
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mhankbarbar&repo=termux-wabot&theme=buefy)](https://github.com/mhankbarbar/termux-wabot)
+![](https://github-profile-trophy.vercel.app/?username=MhankBarBar&row=2&column=3)
 
 ## About me
 ```js
