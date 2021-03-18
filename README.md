@@ -5,9 +5,19 @@ Nama Saya [Mohamad Ilham](https://github.com/jenralsvg), Bersekolah Di SMA NEGER
  [![YouTube](https://img.icons8.com/fluent/40/000000/youtube-play.png)](https://youtube.com/channel/UCF-nPvtUosWxilJksQXJJ5g)
 </P>
 
-- 🌱 I’m currently learning **nothing**.
-
-- 👀 I m currently focusing on **JavaScript**.
+### Stats:
+<details>
+ <summary><strong>What i am learning/working on these days</strong></summary>
+    - 🔭 I’m currently working on ... </br>
+    - 🌱 I’m currently learning SwiftUI and UIKit </br>
+    - 👯 I’m looking to collaborate on ... </br>
+    - 🤔 I’m looking for help with ... </br>
+    - 💬 Ask me about anything.</br>
+    - 📫 How to reach me: <a href="mailto:goodfe@yahoo.com">Email me!</a>  </br>
+    - 😄 Pronouns: He/Him </br>
+    - ⚡ Fun fact: ... </br>
+</details>
+<p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
