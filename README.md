@@ -1,6 +1,4 @@
-# Helloo Guys<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-Nama Saya [Mohamad Ilham](https://github.com/jenralsvg), Bersekolah Di SMA NEGERI 1 SINDUE Dan Tinggal Di Sulawesi Tengah Kota Palu Indonesia.
-
+# Ilham_Net<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 [![WhatsApp](https://img.icons8.com/fluent/40/000000/whatsapp.png)](https://api.whatsapp.com/send?phone=6285757196481&text=Assalamualaikum+Save+Nomorku)
  [![YouTube](https://img.icons8.com/fluent/40/000000/youtube-play.png)](https://youtube.com/channel/UCF-nPvtUosWxilJksQXJJ5g)
 </P>
