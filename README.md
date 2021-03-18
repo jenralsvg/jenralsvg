@@ -5,6 +5,13 @@ Nama Saya [Mohamad Ilham](https://github.com/jenralsvg), Bersekolah Di SMA NEGER
  [![YouTube](https://img.icons8.com/fluent/40/000000/youtube-play.png)](https://youtube.com/channel/UCF-nPvtUosWxilJksQXJJ5g)
 </P>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
+  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=e34f26" />
+  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572b6" />
+</p>
+
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
@@ -18,15 +25,6 @@ Nama Saya [Mohamad Ilham](https://github.com/jenralsvg), Bersekolah Di SMA NEGER
     - ⚡ Fun fact: ... </br>
 </details>
 <p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
-  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=e34f26" />
-  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572b6" />
-</p>
-
-___
 
 ![IlhamNet github stats](https://github-readme-stats.vercel.app/api?username=jenralsvg&show_icons=true&theme=tokyonight)
 
